@@ -1,3 +1,4 @@
 EUREKA
 NOnoTAMI
-mimi
+minion
+jirai
